@@ -3,7 +3,7 @@ name: Send Discovered API to ApiConnect
 on: [pull_request, workflow_dispatch, push]
 
 env:
-  API_HOST: https://api-manage-ef6fcca0-platform-api-tech-jam-apic.techjam2-420eb34f056ae68f3969289d61f61851-0000.jp-tok.containers.appdomain.cloud
+  API_HOST: api-manage-ef6fcca0-platform-api-tech-jam-apic.techjam2-420eb34f056ae68f3969289d61f61851-0000.jp-tok.containers.appdomain.cloud
   PROVIDER_ORG: tech-jam-05
   API_FILES: APIfolder/photos.yaml
   #API_FILES: APIfolder/uber-api.json
