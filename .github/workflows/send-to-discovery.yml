@@ -6,6 +6,7 @@ env:
   API_HOST: jp-tok.containers.appdomain.cloud
   PROVIDER_ORG: tech-jam-05
   PLATFORM_API_PREFIX: api-manage-ef6fcca0-platform-api-tech-jam-apic.techjam2-420eb34f056ae68f3969289d61f61851-0000
+  INSECURE_SKIP_TLS_VERIFY: true
   API_FILES: APIfolder/photos.yaml
   #API_FILES: APIfolder/uber-api.json
   #API_FILES: APIfolder/coffee-store.yaml
